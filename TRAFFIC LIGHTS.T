@@ -1,5 +1,4 @@
-%By Borna Houmani and Charles Yu, Team Red Means Go
-%Ian and Mason, The Three Musketeers, came up with the revolutionary aesthetic design of rounded rectangles. This design would go on to change traffic lights 4ever
+%By Borna Houmani and Charles Yu
 import GUI
 
 %Prepares fonts and other variables required for the program
